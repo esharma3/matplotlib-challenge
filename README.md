@@ -1,5 +1,3 @@
-# Matplotlib Homework - The Power of Plots
-
 ## Pymaceuticals Instructions
 
 ![Laboratory](Images/Laboratory.jpg)
@@ -15,6 +13,7 @@ To do this you are tasked with:
 * Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
 * Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 * Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
+
 
 ### Copyright
 Trilogy Education Services © 2019. All Rights Reserved.
